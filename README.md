@@ -43,8 +43,22 @@ It includes **57 numerical features** extracted from emails, with a binary label
 
 ---
 
-## Getting Started
+##  Requirements
 
-### Requirements
+To run this project, you need the following Python dependencies:
+
+- **Python 3.8+**
+- **pandas**
+- **numpy**
+- **matplotlib**
+- **seaborn**
+- **scikit-learn**
+- **imbalanced-learn**
+
+### Install Dependencies
+
+To install all the required dependencies, run the following command in your terminal:
+
 ```bash
 pip install -r requirements.txt
+
